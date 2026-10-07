@@ -1,0 +1,7 @@
+#create venv
+python -m venv .venv
+
+#Activate environment
+.venv\scripts\Activate
+
+fig,ax = plt.subplots(1,2, figsize=(14,5))
